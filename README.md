@@ -1,4 +1,4 @@
-# Phala Style Guild
+# Phala Style Guide
 
 ## Code Style
 
